@@ -1,7 +1,4 @@
----
-lesson-example:"https://carpentries.github.io/lesson-example/"
----
-
+{% include navigation.html %}
 
 # What is this?
 {{site.description2}}
@@ -11,8 +8,7 @@ lesson-example:"https://carpentries.github.io/lesson-example/"
 - Email: [{{ site.email }}](mailto:{{ site.email }})  
 - Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
 
-### More
-See some examples [here]({{page.lesson-example}})
+
 
 
 
