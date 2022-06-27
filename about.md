@@ -1,2 +1,7 @@
 # A short description
-This page is simply a demonstration of me following a carpentries course on jekyll pages. 
+{{site.description2}}
+
+## Contact us
+
+- Email: [{{ site.email }}](mailto:{{ site.email }})  
+- Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
