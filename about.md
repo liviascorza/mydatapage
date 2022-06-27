@@ -1,4 +1,4 @@
-# A short description
+# What is this?
 {{site.description2}}
 
 ## Contact us
