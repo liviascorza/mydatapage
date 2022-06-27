@@ -1,5 +1,7 @@
 # Building websites on github
 
-## This is an example website built while learning how to use Jekyll and GitHub Pages.  
+## Description
+{{site.description}}
 
 More details can be found on the [About page](about)
+Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
