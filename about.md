@@ -1,6 +1,5 @@
 ---
 lesson-example:"https://carpentries.github.io/lesson-example/"
-author:"LS"
 ---
 
 # What is this?
@@ -14,6 +13,6 @@ author:"LS"
 ### More
 See some examples [here]({{page.lesson-example}})
 
-{{page.author}}
+
 
 
