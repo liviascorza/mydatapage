@@ -1,8 +1,9 @@
+
+{% include navigation.html %}  
 ---
 lesson-example:"https://carpentries.github.io/lesson-example/"
 ---
 
-{% include navigation.html %}   
 
 # What is this?
 {{site.description2}}
