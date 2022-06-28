@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 ---
-layout:default
+layout: default
 ---
 
 # Building websites on github
