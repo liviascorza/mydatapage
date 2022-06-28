@@ -1,9 +1,8 @@
-{% include navigation.html %}  
-
 ---
 layout: default
-title: About
 ---
+
+{% include navigation.html %}  
 
 # What is this?
 {{site.description2}}
