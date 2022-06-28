@@ -1,5 +1,10 @@
 {% include navigation.html %}  
 
+---
+layout: default
+title: About
+---
+
 # What is this?
 {{site.description2}}
 
