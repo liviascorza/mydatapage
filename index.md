@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Index
 ---
-
-# Building websites on github
 
 ## Description
 {{site.description}}
