@@ -3,8 +3,9 @@ layout: default
 title: About
 ---
 
-# What is this?
-{{site.description2}}
+## Project
+
+Building Websites with Jekyll & GitHub Pages.
 
 ## Contact us
 
