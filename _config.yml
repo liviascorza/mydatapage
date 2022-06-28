@@ -2,4 +2,4 @@ description: "This research project develops training materials for reseachers w
 websites in GitHub with GitHub Pages."
 description2: "This page is simply a demonstration of me following a carpentries course on jekyll pages."
 email: "team@carpentries.org"
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
