@@ -1,8 +1,8 @@
-{% include navigation.html %}
-
 ---
 layout: default
 ---
+
+{% include navigation.html %}
 
 # Building websites on github
 
